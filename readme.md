@@ -1,4 +1,4 @@
-# Simple Laravel 5.4 CRUD Demo
+# Simple Laravel CRUD Demo
 
 ## Installation
 
@@ -11,7 +11,7 @@ Let's install all packages, by running this command from Terminal
 composer install
 ```
 
-Let's do some migration and seed with dummy datas.
+Let's do some migration and seed with dummy data.
 
 ```
 php artisan migrate --seed
